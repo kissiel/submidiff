@@ -1,5 +1,10 @@
 #!/usr/bin/env python3
 
+"""
+Take two checkbox submission and print out differences in test outcome
+between those two.
+"""
+
 import json
 import tarfile
 import sys
